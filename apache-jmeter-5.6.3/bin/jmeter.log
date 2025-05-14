@@ -1,0 +1,1498 @@
+2025-05-14 23:05:39,738 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-05-14 23:05:39,767 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2025-05-14 23:05:39,768 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2025-05-14 23:05:39,777 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-05-14 23:05:39,778 INFO o.a.j.JMeter: Version 5.6.3
+2025-05-14 23:05:39,778 INFO o.a.j.JMeter: java.version=17.0.15
+2025-05-14 23:05:39,778 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2025-05-14 23:05:39,778 INFO o.a.j.JMeter: os.name=Linux
+2025-05-14 23:05:39,778 INFO o.a.j.JMeter: os.arch=amd64
+2025-05-14 23:05:39,778 INFO o.a.j.JMeter: os.version=6.8.0-59-generic
+2025-05-14 23:05:39,778 INFO o.a.j.JMeter: file.encoding=UTF-8
+2025-05-14 23:05:39,778 INFO o.a.j.JMeter: java.awt.headless=null
+2025-05-14 23:05:39,779 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-05-14 23:05:39,779 INFO o.a.j.JMeter: Available Processors =16
+2025-05-14 23:05:39,790 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-05-14 23:05:39,791 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-05-14 23:05:39,791 INFO o.a.j.JMeter: JMeterHome=/home/carlilloslinero/apache-jmeter-5.6.3
+2025-05-14 23:05:39,791 INFO o.a.j.JMeter: user.dir  =/home/carlilloslinero/apache-jmeter-5.6.3/bin
+2025-05-14 23:05:39,791 INFO o.a.j.JMeter: PWD       =/home/carlilloslinero/apache-jmeter-5.6.3/bin
+2025-05-14 23:05:39,792 INFO o.a.j.JMeter: IP: 127.0.1.1 Name: carlilloslinero-HP-Laptop-15s-eq2xxx FullName: carlilloslinero-HP-Laptop-15s-eq2xxx
+2025-05-14 23:05:39,803 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2025-05-14 23:05:40,017 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2025-05-14 23:08:50,505 INFO o.a.j.s.FileServer: Default base='/home/carlilloslinero/apache-jmeter-5.6.3/bin'
+2025-05-14 23:08:50,508 INFO o.a.j.g.a.Load: Loading file: /home/carlilloslinero/JMeter/iseP4JMeter/jMeter/Ej3.3.jmx
+2025-05-14 23:08:50,508 INFO o.a.j.s.FileServer: Set new base='/home/carlilloslinero/JMeter/iseP4JMeter/jMeter'
+2025-05-14 23:08:50,707 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2025-05-14 23:08:50,715 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2025-05-14 23:08:50,717 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2025-05-14 23:08:50,719 INFO o.a.j.s.SaveService: Loading file: /home/carlilloslinero/JMeter/iseP4JMeter/jMeter/Ej3.3.jmx
+2025-05-14 23:08:50,777 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-05-14 23:08:50,777 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-05-14 23:08:50,777 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-05-14 23:08:50,777 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-05-14 23:08:50,777 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2025-05-14 23:08:50,777 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2025-05-14 23:08:50,792 INFO o.a.j.p.h.s.HTTPJavaImpl: Maximum connection retries = 0
+2025-05-14 23:08:50,863 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2025-05-14 23:08:50,863 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2025-05-14 23:08:50,863 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2025-05-14 23:08:50,863 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2025-05-14 23:08:51,469 INFO o.a.j.s.FileServer: Set new base='/home/carlilloslinero/JMeter/iseP4JMeter/jMeter'
+2025-05-14 23:11:27,476 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-05-14 23:11:27,477 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-05-14 23:11:27,477 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-05-14 23:11:27,479 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2025-05-14 23:11:27,479 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2025-05-14 23:11:27,511 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-05-14 23:11:27,556 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Alumnos
+2025-05-14 23:11:27,556 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Alumnos.
+2025-05-14 23:11:27,556 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:11:27,556 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=10 ramp-up=1 delayedStart=false
+2025-05-14 23:11:27,562 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-1
+2025-05-14 23:11:27,566 INFO o.a.j.s.FileServer: Stored: ./alumnos.csv
+2025-05-14 23:11:27,571 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-05-14 23:11:27,572 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Administradores
+2025-05-14 23:11:27,572 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Administradores.
+2025-05-14 23:11:27,572 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:11:27,572 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=10 ramp-up=1 delayedStart=false
+2025-05-14 23:11:27,574 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-1
+2025-05-14 23:11:27,583 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2025-05-14 23:11:27,583 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-05-14 23:11:27,586 INFO o.a.j.s.FileServer: Stored: ./administradores.csv
+2025-05-14 23:11:27,658 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-2
+2025-05-14 23:11:27,675 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-2
+2025-05-14 23:11:27,757 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-3
+2025-05-14 23:11:27,774 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-3
+2025-05-14 23:11:27,858 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-4
+2025-05-14 23:11:27,874 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-4
+2025-05-14 23:11:27,875 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = carlilloslinero-HP-Laptop-15s-eq2xxx
+2025-05-14 23:11:27,884 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2025-05-14 23:11:27,957 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-5
+2025-05-14 23:11:27,974 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-5
+2025-05-14 23:11:28,059 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-6
+2025-05-14 23:11:28,076 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-6
+2025-05-14 23:11:28,157 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-7
+2025-05-14 23:11:28,175 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-7
+2025-05-14 23:11:28,257 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-8
+2025-05-14 23:11:28,274 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-8
+2025-05-14 23:11:28,329 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-1
+2025-05-14 23:11:28,329 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-1
+2025-05-14 23:11:28,358 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-9
+2025-05-14 23:11:28,375 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-9
+2025-05-14 23:11:28,379 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-3
+2025-05-14 23:11:28,379 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-3
+2025-05-14 23:11:28,438 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-4
+2025-05-14 23:11:28,438 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-4
+2025-05-14 23:11:28,458 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-10
+2025-05-14 23:11:28,474 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-10
+2025-05-14 23:11:28,583 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-2
+2025-05-14 23:11:28,583 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-2
+2025-05-14 23:11:28,696 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-5
+2025-05-14 23:11:28,696 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-5
+2025-05-14 23:11:28,702 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-2
+2025-05-14 23:11:28,702 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-2
+2025-05-14 23:11:28,726 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-5
+2025-05-14 23:11:28,726 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-5
+2025-05-14 23:11:28,742 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-4
+2025-05-14 23:11:28,742 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-4
+2025-05-14 23:11:28,743 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-7
+2025-05-14 23:11:28,743 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-7
+2025-05-14 23:11:28,754 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-3
+2025-05-14 23:11:28,754 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-3
+2025-05-14 23:11:28,757 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-1
+2025-05-14 23:11:28,758 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-1
+2025-05-14 23:11:28,772 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-6
+2025-05-14 23:11:28,772 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-6
+2025-05-14 23:11:28,976 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-6
+2025-05-14 23:11:28,977 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-6
+2025-05-14 23:11:28,993 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-7
+2025-05-14 23:11:28,993 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-7
+2025-05-14 23:11:29,021 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-9
+2025-05-14 23:11:29,021 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-9
+2025-05-14 23:11:29,108 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-10
+2025-05-14 23:11:29,108 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-10
+2025-05-14 23:11:29,116 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-8
+2025-05-14 23:11:29,116 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-8
+2025-05-14 23:11:29,456 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-9
+2025-05-14 23:11:29,456 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-9
+2025-05-14 23:11:29,483 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-8
+2025-05-14 23:11:29,483 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-8
+2025-05-14 23:11:29,523 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-10
+2025-05-14 23:11:29,523 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-10
+2025-05-14 23:11:29,524 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-05-14 23:11:29,525 INFO o.a.j.s.FileServer: Close: ./administradores.csv
+2025-05-14 23:11:29,525 INFO o.a.j.s.FileServer: Close: ./alumnos.csv
+2025-05-14 23:11:29,525 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-05-14 23:11:49,394 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-05-14 23:11:49,395 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-05-14 23:11:49,398 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-05-14 23:11:49,448 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Alumnos
+2025-05-14 23:11:49,448 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Alumnos.
+2025-05-14 23:11:49,448 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:11:49,449 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=10 ramp-up=1 delayedStart=false
+2025-05-14 23:11:49,450 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-1
+2025-05-14 23:11:49,451 INFO o.a.j.s.FileServer: Stored: ./alumnos.csv
+2025-05-14 23:11:49,455 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-05-14 23:11:49,455 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Administradores
+2025-05-14 23:11:49,455 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Administradores.
+2025-05-14 23:11:49,455 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:11:49,455 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=10 ramp-up=1 delayedStart=false
+2025-05-14 23:11:49,456 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-1
+2025-05-14 23:11:49,457 INFO o.a.j.s.FileServer: Stored: ./administradores.csv
+2025-05-14 23:11:49,460 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2025-05-14 23:11:49,460 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-05-14 23:11:49,550 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-2
+2025-05-14 23:11:49,556 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-2
+2025-05-14 23:11:49,651 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-3
+2025-05-14 23:11:49,656 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-3
+2025-05-14 23:11:49,733 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:11:49,750 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-4
+2025-05-14 23:11:49,756 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-4
+2025-05-14 23:11:49,850 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-5
+2025-05-14 23:11:49,856 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-5
+2025-05-14 23:11:49,951 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-6
+2025-05-14 23:11:49,957 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-6
+2025-05-14 23:11:50,050 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-7
+2025-05-14 23:11:50,056 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-1
+2025-05-14 23:11:50,056 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-1
+2025-05-14 23:11:50,056 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-7
+2025-05-14 23:11:50,112 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-1
+2025-05-14 23:11:50,113 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-1
+2025-05-14 23:11:50,150 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-8
+2025-05-14 23:11:50,156 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-8
+2025-05-14 23:11:50,180 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-2
+2025-05-14 23:11:50,180 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-2
+2025-05-14 23:11:50,218 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:11:50,250 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-9
+2025-05-14 23:11:50,256 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-9
+2025-05-14 23:11:50,282 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:11:50,349 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-10
+2025-05-14 23:11:50,356 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-10
+2025-05-14 23:11:50,376 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-5
+2025-05-14 23:11:50,377 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-5
+2025-05-14 23:11:50,379 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-3
+2025-05-14 23:11:50,379 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-3
+2025-05-14 23:11:50,412 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-4
+2025-05-14 23:11:50,413 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-4
+2025-05-14 23:11:50,444 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:11:50,488 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:11:50,497 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-3
+2025-05-14 23:11:50,497 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-3
+2025-05-14 23:11:50,544 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-6
+2025-05-14 23:11:50,544 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-6
+2025-05-14 23:11:50,580 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-8
+2025-05-14 23:11:50,580 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-8
+2025-05-14 23:11:50,611 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-2
+2025-05-14 23:11:50,611 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-2
+2025-05-14 23:11:50,665 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:11:50,732 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:11:50,748 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-4
+2025-05-14 23:11:50,749 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-4
+2025-05-14 23:11:50,755 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-9
+2025-05-14 23:11:50,755 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-9
+2025-05-14 23:11:50,782 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:11:50,803 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-7
+2025-05-14 23:11:50,803 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-7
+2025-05-14 23:11:50,807 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-10
+2025-05-14 23:11:50,807 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-10
+2025-05-14 23:11:50,808 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-6
+2025-05-14 23:11:50,809 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-6
+2025-05-14 23:11:50,860 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-5
+2025-05-14 23:11:50,861 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-5
+2025-05-14 23:11:50,882 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-9
+2025-05-14 23:11:50,882 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-9
+2025-05-14 23:11:50,886 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:11:50,960 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:11:51,107 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-7
+2025-05-14 23:11:51,107 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-7
+2025-05-14 23:11:51,289 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-8
+2025-05-14 23:11:51,289 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-8
+2025-05-14 23:11:51,309 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-10
+2025-05-14 23:11:51,309 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-10
+2025-05-14 23:11:51,309 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-05-14 23:11:51,310 INFO o.a.j.s.FileServer: Close: ./administradores.csv
+2025-05-14 23:11:51,310 INFO o.a.j.s.FileServer: Close: ./alumnos.csv
+2025-05-14 23:11:51,310 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-05-14 23:12:23,315 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-05-14 23:12:23,316 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-05-14 23:12:23,318 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-05-14 23:12:23,359 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Alumnos
+2025-05-14 23:12:23,360 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Alumnos.
+2025-05-14 23:12:23,360 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:12:23,360 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=10 ramp-up=1 delayedStart=false
+2025-05-14 23:12:23,361 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-1
+2025-05-14 23:12:23,362 INFO o.a.j.s.FileServer: Stored: ./alumnos.csv
+2025-05-14 23:12:23,364 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-05-14 23:12:23,364 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Administradores
+2025-05-14 23:12:23,364 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Administradores.
+2025-05-14 23:12:23,364 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:12:23,364 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=10 ramp-up=1 delayedStart=false
+2025-05-14 23:12:23,365 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-1
+2025-05-14 23:12:23,366 INFO o.a.j.s.FileServer: Stored: ./administradores.csv
+2025-05-14 23:12:23,367 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2025-05-14 23:12:23,367 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-05-14 23:12:23,461 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-2
+2025-05-14 23:12:23,464 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-2
+2025-05-14 23:12:23,561 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-3
+2025-05-14 23:12:23,565 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-3
+2025-05-14 23:12:23,661 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-4
+2025-05-14 23:12:23,665 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-4
+2025-05-14 23:12:23,761 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-5
+2025-05-14 23:12:23,765 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-5
+2025-05-14 23:12:23,841 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:12:23,842 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-1
+2025-05-14 23:12:23,842 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-1
+2025-05-14 23:12:23,843 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:12:23,844 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-2
+2025-05-14 23:12:23,844 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-2
+2025-05-14 23:12:23,861 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-6
+2025-05-14 23:12:23,864 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-6
+2025-05-14 23:12:23,919 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-2
+2025-05-14 23:12:23,920 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-2
+2025-05-14 23:12:23,960 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-7
+2025-05-14 23:12:23,964 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-7
+2025-05-14 23:12:24,009 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-3
+2025-05-14 23:12:24,010 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-3
+2025-05-14 23:12:24,042 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-1
+2025-05-14 23:12:24,043 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-1
+2025-05-14 23:12:24,061 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-8
+2025-05-14 23:12:24,065 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-8
+2025-05-14 23:12:24,161 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-9
+2025-05-14 23:12:24,162 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:12:24,163 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-5
+2025-05-14 23:12:24,163 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-5
+2025-05-14 23:12:24,165 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-9
+2025-05-14 23:12:24,262 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-10
+2025-05-14 23:12:24,265 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-10
+2025-05-14 23:12:24,322 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-6
+2025-05-14 23:12:24,322 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-6
+2025-05-14 23:12:24,353 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-7
+2025-05-14 23:12:24,353 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-7
+2025-05-14 23:12:24,360 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:12:24,361 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-4
+2025-05-14 23:12:24,361 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-4
+2025-05-14 23:12:24,395 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-5
+2025-05-14 23:12:24,395 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-5
+2025-05-14 23:12:24,397 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-4
+2025-05-14 23:12:24,397 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-4
+2025-05-14 23:12:24,417 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:12:24,418 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-3
+2025-05-14 23:12:24,419 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-3
+2025-05-14 23:12:24,509 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:12:24,510 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-8
+2025-05-14 23:12:24,510 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-8
+2025-05-14 23:12:24,567 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:12:24,568 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-6
+2025-05-14 23:12:24,568 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-6
+2025-05-14 23:12:24,688 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:12:24,689 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-7
+2025-05-14 23:12:24,690 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-7
+2025-05-14 23:12:24,817 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-9
+2025-05-14 23:12:24,817 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-9
+2025-05-14 23:12:24,838 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-10
+2025-05-14 23:12:24,839 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-10
+2025-05-14 23:12:24,857 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-8
+2025-05-14 23:12:24,857 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-8
+2025-05-14 23:12:24,867 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:12:24,868 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-9
+2025-05-14 23:12:24,869 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-9
+2025-05-14 23:12:25,090 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:12:25,091 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-10
+2025-05-14 23:12:25,091 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-10
+2025-05-14 23:12:25,091 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-05-14 23:12:25,091 INFO o.a.j.s.FileServer: Close: ./administradores.csv
+2025-05-14 23:12:25,091 INFO o.a.j.s.FileServer: Close: ./alumnos.csv
+2025-05-14 23:12:25,091 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-05-14 23:17:26,894 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-05-14 23:17:26,895 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-05-14 23:17:26,896 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-05-14 23:17:26,942 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Alumnos
+2025-05-14 23:17:26,942 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Alumnos.
+2025-05-14 23:17:26,942 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:17:26,943 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=10 ramp-up=1 delayedStart=false
+2025-05-14 23:17:26,944 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-1
+2025-05-14 23:17:26,945 INFO o.a.j.s.FileServer: Stored: ./alumnos.csv
+2025-05-14 23:17:26,946 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-05-14 23:17:26,946 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Administradores
+2025-05-14 23:17:26,946 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Administradores.
+2025-05-14 23:17:26,946 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:17:26,946 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=10 ramp-up=1 delayedStart=false
+2025-05-14 23:17:26,947 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-1
+2025-05-14 23:17:26,948 INFO o.a.j.s.FileServer: Stored: ./administradores.csv
+2025-05-14 23:17:26,949 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2025-05-14 23:17:26,949 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-05-14 23:17:27,045 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-2
+2025-05-14 23:17:27,046 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-2
+2025-05-14 23:17:27,143 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-3
+2025-05-14 23:17:27,147 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-3
+2025-05-14 23:17:27,244 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-4
+2025-05-14 23:17:27,247 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-4
+2025-05-14 23:17:27,344 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-5
+2025-05-14 23:17:27,346 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-5
+2025-05-14 23:17:27,444 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-6
+2025-05-14 23:17:27,447 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-6
+2025-05-14 23:17:27,491 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:17:27,525 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:17:27,544 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-7
+2025-05-14 23:17:27,547 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-7
+2025-05-14 23:17:27,564 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-1
+2025-05-14 23:17:27,564 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-1
+2025-05-14 23:17:27,644 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-8
+2025-05-14 23:17:27,648 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-8
+2025-05-14 23:17:27,652 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:17:27,744 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-9
+2025-05-14 23:17:27,747 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-9
+2025-05-14 23:17:27,770 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-2
+2025-05-14 23:17:27,770 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-2
+2025-05-14 23:17:27,792 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-2
+2025-05-14 23:17:27,792 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-2
+2025-05-14 23:17:27,821 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:17:27,844 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-10
+2025-05-14 23:17:27,847 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-10
+2025-05-14 23:17:27,857 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-5
+2025-05-14 23:17:27,857 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-5
+2025-05-14 23:17:27,873 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-1
+2025-05-14 23:17:27,874 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-1
+2025-05-14 23:17:27,886 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-3
+2025-05-14 23:17:27,886 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-3
+2025-05-14 23:17:27,991 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:17:28,029 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-4
+2025-05-14 23:17:28,029 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-4
+2025-05-14 23:17:28,043 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:17:28,101 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:17:28,123 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-3
+2025-05-14 23:17:28,123 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-3
+2025-05-14 23:17:28,147 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-8
+2025-05-14 23:17:28,147 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-8
+2025-05-14 23:17:28,181 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-4
+2025-05-14 23:17:28,181 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-4
+2025-05-14 23:17:28,188 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-7
+2025-05-14 23:17:28,188 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-7
+2025-05-14 23:17:28,228 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:17:28,244 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-9
+2025-05-14 23:17:28,244 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-9
+2025-05-14 23:17:28,282 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-5
+2025-05-14 23:17:28,283 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-5
+2025-05-14 23:17:28,315 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:17:28,360 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-6
+2025-05-14 23:17:28,360 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-6
+2025-05-14 23:17:28,408 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-6
+2025-05-14 23:17:28,408 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-6
+2025-05-14 23:17:28,426 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-9
+2025-05-14 23:17:28,426 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-9
+2025-05-14 23:17:28,515 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-10
+2025-05-14 23:17:28,515 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-10
+2025-05-14 23:17:28,595 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-7
+2025-05-14 23:17:28,595 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-7
+2025-05-14 23:17:28,606 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-8
+2025-05-14 23:17:28,606 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-8
+2025-05-14 23:17:28,667 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:17:29,139 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-10
+2025-05-14 23:17:29,139 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-10
+2025-05-14 23:17:29,140 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-05-14 23:17:29,140 INFO o.a.j.s.FileServer: Close: ./administradores.csv
+2025-05-14 23:17:29,140 INFO o.a.j.s.FileServer: Close: ./alumnos.csv
+2025-05-14 23:17:29,140 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-05-14 23:17:43,126 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-05-14 23:17:43,126 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-05-14 23:17:43,127 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-05-14 23:17:43,174 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Alumnos
+2025-05-14 23:17:43,174 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Alumnos.
+2025-05-14 23:17:43,174 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:17:43,174 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=10 ramp-up=1 delayedStart=false
+2025-05-14 23:17:43,176 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-1
+2025-05-14 23:17:43,176 INFO o.a.j.s.FileServer: Stored: ./alumnos.csv
+2025-05-14 23:17:43,177 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-05-14 23:17:43,178 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Administradores
+2025-05-14 23:17:43,178 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Administradores.
+2025-05-14 23:17:43,178 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:17:43,178 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=10 ramp-up=1 delayedStart=false
+2025-05-14 23:17:43,179 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-1
+2025-05-14 23:17:43,179 INFO o.a.j.s.FileServer: Stored: ./administradores.csv
+2025-05-14 23:17:43,180 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2025-05-14 23:17:43,181 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-05-14 23:17:43,275 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-2
+2025-05-14 23:17:43,279 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-2
+2025-05-14 23:17:43,375 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-3
+2025-05-14 23:17:43,379 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-3
+2025-05-14 23:17:43,474 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-4
+2025-05-14 23:17:43,478 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-4
+2025-05-14 23:17:43,556 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:17:43,570 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-2
+2025-05-14 23:17:43,570 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-2
+2025-05-14 23:17:43,575 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-5
+2025-05-14 23:17:43,578 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-5
+2025-05-14 23:17:43,675 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-6
+2025-05-14 23:17:43,679 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-6
+2025-05-14 23:17:43,775 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-7
+2025-05-14 23:17:43,779 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-7
+2025-05-14 23:17:43,797 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:17:43,835 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-1
+2025-05-14 23:17:43,835 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-1
+2025-05-14 23:17:43,875 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-8
+2025-05-14 23:17:43,879 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-8
+2025-05-14 23:17:43,906 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:17:43,922 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-3
+2025-05-14 23:17:43,922 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-3
+2025-05-14 23:17:43,943 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-4
+2025-05-14 23:17:43,944 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-4
+2025-05-14 23:17:43,968 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:17:43,971 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-4
+2025-05-14 23:17:43,971 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-4
+2025-05-14 23:17:43,975 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-9
+2025-05-14 23:17:43,979 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-9
+2025-05-14 23:17:43,989 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-2
+2025-05-14 23:17:43,989 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-2
+2025-05-14 23:17:44,044 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:17:44,075 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-10
+2025-05-14 23:17:44,079 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-10
+2025-05-14 23:17:44,135 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-6
+2025-05-14 23:17:44,136 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-6
+2025-05-14 23:17:44,163 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-5
+2025-05-14 23:17:44,163 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-5
+2025-05-14 23:17:44,229 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-1
+2025-05-14 23:17:44,229 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-1
+2025-05-14 23:17:44,283 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:17:44,285 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-7
+2025-05-14 23:17:44,285 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-7
+2025-05-14 23:17:44,293 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:17:44,311 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-3
+2025-05-14 23:17:44,312 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-3
+2025-05-14 23:17:44,461 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-5
+2025-05-14 23:17:44,461 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-5
+2025-05-14 23:17:44,499 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:17:44,509 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-8
+2025-05-14 23:17:44,509 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-8
+2025-05-14 23:17:44,562 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-9
+2025-05-14 23:17:44,562 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-9
+2025-05-14 23:17:44,604 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:17:44,662 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-6
+2025-05-14 23:17:44,662 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-6
+2025-05-14 23:17:44,689 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-8
+2025-05-14 23:17:44,690 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-8
+2025-05-14 23:17:44,740 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:17:44,830 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-10
+2025-05-14 23:17:44,830 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-10
+2025-05-14 23:17:44,918 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-7
+2025-05-14 23:17:44,918 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-7
+2025-05-14 23:17:44,981 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-9
+2025-05-14 23:17:44,981 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-9
+2025-05-14 23:17:45,315 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-10
+2025-05-14 23:17:45,316 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-10
+2025-05-14 23:17:45,317 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-05-14 23:17:45,317 INFO o.a.j.s.FileServer: Close: ./administradores.csv
+2025-05-14 23:17:45,317 INFO o.a.j.s.FileServer: Close: ./alumnos.csv
+2025-05-14 23:17:45,317 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-05-14 23:18:11,412 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-05-14 23:18:11,412 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-05-14 23:18:11,413 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-05-14 23:18:11,416 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Alumnos
+2025-05-14 23:18:11,417 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Alumnos.
+2025-05-14 23:18:11,417 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:18:11,417 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2025-05-14 23:18:11,417 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-05-14 23:18:11,418 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Administradores
+2025-05-14 23:18:11,418 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Administradores.
+2025-05-14 23:18:11,418 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:18:11,418 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=1 ramp-up=1 delayedStart=false
+2025-05-14 23:18:11,418 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-1
+2025-05-14 23:18:11,418 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2025-05-14 23:18:11,418 INFO o.a.j.s.FileServer: Stored: ./alumnos.csv
+2025-05-14 23:18:11,418 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-05-14 23:18:11,419 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-1
+2025-05-14 23:18:11,419 INFO o.a.j.s.FileServer: Stored: ./administradores.csv
+2025-05-14 23:18:12,033 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:18:12,111 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-1
+2025-05-14 23:18:12,111 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-1
+2025-05-14 23:18:12,323 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-1
+2025-05-14 23:18:12,323 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-1
+2025-05-14 23:18:12,324 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-05-14 23:18:12,324 INFO o.a.j.s.FileServer: Close: ./administradores.csv
+2025-05-14 23:18:12,324 INFO o.a.j.s.FileServer: Close: ./alumnos.csv
+2025-05-14 23:18:12,325 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-05-14 23:18:45,559 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-05-14 23:18:45,559 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-05-14 23:18:45,561 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-05-14 23:18:45,605 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Alumnos
+2025-05-14 23:18:45,605 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Alumnos.
+2025-05-14 23:18:45,605 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:18:45,605 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2025-05-14 23:18:45,606 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-05-14 23:18:45,606 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Administradores
+2025-05-14 23:18:45,606 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Administradores.
+2025-05-14 23:18:45,606 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:18:45,606 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=1 ramp-up=1 delayedStart=false
+2025-05-14 23:18:45,606 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-1
+2025-05-14 23:18:45,607 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2025-05-14 23:18:45,607 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-05-14 23:18:45,607 INFO o.a.j.s.FileServer: Stored: ./alumnos.csv
+2025-05-14 23:18:45,607 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-1
+2025-05-14 23:18:45,608 INFO o.a.j.s.FileServer: Stored: ./administradores.csv
+2025-05-14 23:18:46,133 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-1
+2025-05-14 23:18:46,133 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-1
+2025-05-14 23:18:46,542 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-1
+2025-05-14 23:18:46,542 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-1
+2025-05-14 23:18:46,543 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-05-14 23:18:46,543 INFO o.a.j.s.FileServer: Close: ./administradores.csv
+2025-05-14 23:18:46,543 INFO o.a.j.s.FileServer: Close: ./alumnos.csv
+2025-05-14 23:18:46,543 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-05-14 23:20:55,575 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-05-14 23:20:55,575 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-05-14 23:20:55,576 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-05-14 23:20:55,622 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Alumnos
+2025-05-14 23:20:55,622 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Alumnos.
+2025-05-14 23:20:55,622 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:20:55,622 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2025-05-14 23:20:55,623 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-05-14 23:20:55,623 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Administradores
+2025-05-14 23:20:55,623 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Administradores.
+2025-05-14 23:20:55,623 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:20:55,623 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=1 ramp-up=1 delayedStart=false
+2025-05-14 23:20:55,624 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-1
+2025-05-14 23:20:55,624 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2025-05-14 23:20:55,624 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-05-14 23:20:55,624 INFO o.a.j.s.FileServer: Stored: ./alumnos.csv
+2025-05-14 23:20:55,624 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-1
+2025-05-14 23:20:55,625 INFO o.a.j.s.FileServer: Stored: ./administradores.csv
+2025-05-14 23:20:56,184 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-1
+2025-05-14 23:20:56,184 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-1
+2025-05-14 23:20:56,477 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-1
+2025-05-14 23:20:56,477 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-1
+2025-05-14 23:20:56,478 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-05-14 23:20:56,478 INFO o.a.j.s.FileServer: Close: ./administradores.csv
+2025-05-14 23:20:56,478 INFO o.a.j.s.FileServer: Close: ./alumnos.csv
+2025-05-14 23:20:56,478 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-05-14 23:21:25,688 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-05-14 23:21:25,689 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-05-14 23:21:25,690 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-05-14 23:21:25,735 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Alumnos
+2025-05-14 23:21:25,735 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Alumnos.
+2025-05-14 23:21:25,735 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:21:25,735 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2025-05-14 23:21:25,736 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-05-14 23:21:25,736 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Administradores
+2025-05-14 23:21:25,736 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Administradores.
+2025-05-14 23:21:25,736 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:21:25,736 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=1 ramp-up=1 delayedStart=false
+2025-05-14 23:21:25,737 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-1
+2025-05-14 23:21:25,737 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2025-05-14 23:21:25,737 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-05-14 23:21:25,737 INFO o.a.j.s.FileServer: Stored: ./alumnos.csv
+2025-05-14 23:21:25,737 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-1
+2025-05-14 23:21:25,738 INFO o.a.j.s.FileServer: Stored: ./administradores.csv
+2025-05-14 23:21:26,309 INFO o.a.j.s.FileServer: Stored: /home/carlilloslinero/Descargas/apiAlumnos.log
+2025-05-14 23:21:26,428 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-1
+2025-05-14 23:21:26,429 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-1
+2025-05-14 23:21:26,458 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-1
+2025-05-14 23:21:26,458 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-1
+2025-05-14 23:21:26,459 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-05-14 23:21:26,459 INFO o.a.j.s.FileServer: Close: ./administradores.csv
+2025-05-14 23:21:26,459 INFO o.a.j.s.FileServer: Close: ./alumnos.csv
+2025-05-14 23:21:26,459 INFO o.a.j.s.FileServer: Close: /home/carlilloslinero/Descargas/apiAlumnos.log
+2025-05-14 23:21:26,459 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-05-14 23:21:43,311 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-05-14 23:21:43,311 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-05-14 23:21:43,313 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-05-14 23:21:43,358 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Alumnos
+2025-05-14 23:21:43,358 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Alumnos.
+2025-05-14 23:21:43,358 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:21:43,358 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2025-05-14 23:21:43,359 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-05-14 23:21:43,359 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Administradores
+2025-05-14 23:21:43,359 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Administradores.
+2025-05-14 23:21:43,359 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:21:43,359 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=1 ramp-up=1 delayedStart=false
+2025-05-14 23:21:43,359 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-1
+2025-05-14 23:21:43,359 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2025-05-14 23:21:43,359 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-05-14 23:21:43,359 INFO o.a.j.s.FileServer: Stored: ./alumnos.csv
+2025-05-14 23:21:43,360 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-1
+2025-05-14 23:21:43,360 INFO o.a.j.s.FileServer: Stored: ./administradores.csv
+2025-05-14 23:21:43,800 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-1
+2025-05-14 23:21:43,800 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-1
+2025-05-14 23:21:44,175 INFO o.a.j.s.FileServer: Stored: ./apiAlumnos.log
+2025-05-14 23:21:44,394 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-1
+2025-05-14 23:21:44,394 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-1
+2025-05-14 23:21:44,395 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-05-14 23:21:44,395 INFO o.a.j.s.FileServer: Close: ./administradores.csv
+2025-05-14 23:21:44,395 INFO o.a.j.s.FileServer: Close: ./apiAlumnos.log
+2025-05-14 23:21:44,395 INFO o.a.j.s.FileServer: Close: ./alumnos.csv
+2025-05-14 23:21:44,395 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-05-14 23:21:55,087 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-05-14 23:21:55,087 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-05-14 23:21:55,088 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-05-14 23:21:55,136 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Alumnos
+2025-05-14 23:21:55,136 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Alumnos.
+2025-05-14 23:21:55,136 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:21:55,136 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2025-05-14 23:21:55,137 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-05-14 23:21:55,137 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Administradores
+2025-05-14 23:21:55,137 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Administradores.
+2025-05-14 23:21:55,137 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:21:55,138 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=1 ramp-up=1 delayedStart=false
+2025-05-14 23:21:55,138 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-1
+2025-05-14 23:21:55,138 INFO o.a.j.s.FileServer: Stored: ./alumnos.csv
+2025-05-14 23:21:55,138 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2025-05-14 23:21:55,138 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-05-14 23:21:55,139 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-1
+2025-05-14 23:21:55,139 INFO o.a.j.s.FileServer: Stored: ./administradores.csv
+2025-05-14 23:21:55,763 ERROR o.a.j.p.h.u.a.TCLogParser: Problem creating samples
+java.io.FileNotFoundException: ./apiAlumnos.log (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.isGZIP(TCLogParser.java:213) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.getReader(TCLogParser.java:205) ~[ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parse(TCLogParser.java:194) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.util.accesslog.TCLogParser.parseAndConfigure(TCLogParser.java:230) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sampleWithParser(AccessLogSampler.java:148) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.protocol.http.sampler.AccessLogSampler.sample(AccessLogSampler.java:189) [ApacheJMeter_http.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+2025-05-14 23:21:55,857 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-1
+2025-05-14 23:21:55,857 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-1
+2025-05-14 23:21:56,036 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-1
+2025-05-14 23:21:56,036 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-1
+2025-05-14 23:21:56,037 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-05-14 23:21:56,037 INFO o.a.j.s.FileServer: Close: ./administradores.csv
+2025-05-14 23:21:56,037 INFO o.a.j.s.FileServer: Close: ./alumnos.csv
+2025-05-14 23:21:56,037 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-05-14 23:22:04,834 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-05-14 23:22:04,834 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-05-14 23:22:04,836 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-05-14 23:22:04,839 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Alumnos
+2025-05-14 23:22:04,839 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Alumnos.
+2025-05-14 23:22:04,839 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:22:04,839 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2025-05-14 23:22:04,840 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-05-14 23:22:04,840 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Administradores
+2025-05-14 23:22:04,840 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Administradores.
+2025-05-14 23:22:04,840 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:22:04,840 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=1 ramp-up=1 delayedStart=false
+2025-05-14 23:22:04,840 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-1
+2025-05-14 23:22:04,841 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2025-05-14 23:22:04,841 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-05-14 23:22:04,841 INFO o.a.j.s.FileServer: Stored: ./alumnos.csv
+2025-05-14 23:22:04,841 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-1
+2025-05-14 23:22:04,841 INFO o.a.j.s.FileServer: Stored: ./administradores.csv
+2025-05-14 23:22:05,322 INFO o.a.j.s.FileServer: Stored: ./apiAlumnos.log
+2025-05-14 23:22:05,488 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-1
+2025-05-14 23:22:05,488 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-1
+2025-05-14 23:22:05,710 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-1
+2025-05-14 23:22:05,710 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-1
+2025-05-14 23:22:05,711 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-05-14 23:22:05,711 INFO o.a.j.s.FileServer: Close: ./administradores.csv
+2025-05-14 23:22:05,711 INFO o.a.j.s.FileServer: Close: ./apiAlumnos.log
+2025-05-14 23:22:05,711 INFO o.a.j.s.FileServer: Close: ./alumnos.csv
+2025-05-14 23:22:05,712 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-05-14 23:22:15,995 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-05-14 23:22:15,995 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-05-14 23:22:15,996 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-05-14 23:22:16,046 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Alumnos
+2025-05-14 23:22:16,047 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Alumnos.
+2025-05-14 23:22:16,047 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:22:16,047 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2025-05-14 23:22:16,048 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-05-14 23:22:16,048 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Administradores
+2025-05-14 23:22:16,048 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Administradores.
+2025-05-14 23:22:16,048 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:22:16,048 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=1 ramp-up=1 delayedStart=false
+2025-05-14 23:22:16,048 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-1
+2025-05-14 23:22:16,049 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2025-05-14 23:22:16,049 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-05-14 23:22:16,049 INFO o.a.j.s.FileServer: Stored: ./alumnos.csv
+2025-05-14 23:22:16,049 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-1
+2025-05-14 23:22:16,050 INFO o.a.j.s.FileServer: Stored: ./administradores.csv
+2025-05-14 23:22:16,548 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-1
+2025-05-14 23:22:16,548 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-1
+2025-05-14 23:22:16,900 INFO o.a.j.s.FileServer: Stored: ./apiAlumnos.log
+2025-05-14 23:22:17,169 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-1
+2025-05-14 23:22:17,169 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-1
+2025-05-14 23:22:17,170 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-05-14 23:22:17,170 INFO o.a.j.s.FileServer: Close: ./administradores.csv
+2025-05-14 23:22:17,170 INFO o.a.j.s.FileServer: Close: ./apiAlumnos.log
+2025-05-14 23:22:17,170 INFO o.a.j.s.FileServer: Close: ./alumnos.csv
+2025-05-14 23:22:17,171 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-05-14 23:22:30,082 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-05-14 23:22:30,082 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-05-14 23:22:30,083 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-05-14 23:22:30,086 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Alumnos
+2025-05-14 23:22:30,086 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Alumnos.
+2025-05-14 23:22:30,086 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:22:30,086 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=10 ramp-up=1 delayedStart=false
+2025-05-14 23:22:30,087 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-1
+2025-05-14 23:22:30,087 INFO o.a.j.s.FileServer: Stored: ./alumnos.csv
+2025-05-14 23:22:30,089 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-05-14 23:22:30,089 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Administradores
+2025-05-14 23:22:30,089 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Administradores.
+2025-05-14 23:22:30,089 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:22:30,089 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=10 ramp-up=1 delayedStart=false
+2025-05-14 23:22:30,090 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-1
+2025-05-14 23:22:30,090 INFO o.a.j.s.FileServer: Stored: ./administradores.csv
+2025-05-14 23:22:30,091 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2025-05-14 23:22:30,092 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-05-14 23:22:30,188 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-2
+2025-05-14 23:22:30,190 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-2
+2025-05-14 23:22:30,287 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-3
+2025-05-14 23:22:30,289 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-3
+2025-05-14 23:22:30,387 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-4
+2025-05-14 23:22:30,390 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-4
+2025-05-14 23:22:30,487 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-5
+2025-05-14 23:22:30,490 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-5
+2025-05-14 23:22:30,587 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-6
+2025-05-14 23:22:30,590 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-6
+2025-05-14 23:22:30,646 INFO o.a.j.s.FileServer: Stored: ./apiAlumnos.log
+2025-05-14 23:22:30,687 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-7
+2025-05-14 23:22:30,690 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-7
+2025-05-14 23:22:30,758 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-1
+2025-05-14 23:22:30,758 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-1
+2025-05-14 23:22:30,787 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-8
+2025-05-14 23:22:30,790 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-8
+2025-05-14 23:22:30,871 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-4
+2025-05-14 23:22:30,871 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-4
+2025-05-14 23:22:30,887 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-9
+2025-05-14 23:22:30,889 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-9
+2025-05-14 23:22:30,957 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-1
+2025-05-14 23:22:30,957 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-1
+2025-05-14 23:22:30,969 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-2
+2025-05-14 23:22:30,969 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-2
+2025-05-14 23:22:30,987 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-10
+2025-05-14 23:22:30,990 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-10
+2025-05-14 23:22:31,111 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-4
+2025-05-14 23:22:31,111 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-4
+2025-05-14 23:22:31,119 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-6
+2025-05-14 23:22:31,119 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-6
+2025-05-14 23:22:31,192 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-5
+2025-05-14 23:22:31,192 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-5
+2025-05-14 23:22:31,257 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-3
+2025-05-14 23:22:31,257 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-3
+2025-05-14 23:22:31,260 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-6
+2025-05-14 23:22:31,260 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-6
+2025-05-14 23:22:31,289 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-2
+2025-05-14 23:22:31,289 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-2
+2025-05-14 23:22:31,327 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-7
+2025-05-14 23:22:31,327 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-7
+2025-05-14 23:22:31,360 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-3
+2025-05-14 23:22:31,360 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-3
+2025-05-14 23:22:31,390 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-8
+2025-05-14 23:22:31,391 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-8
+2025-05-14 23:22:31,395 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-5
+2025-05-14 23:22:31,395 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-5
+2025-05-14 23:22:31,549 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-9
+2025-05-14 23:22:31,549 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-9
+2025-05-14 23:22:31,581 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-10
+2025-05-14 23:22:31,581 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-10
+2025-05-14 23:22:31,747 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-8
+2025-05-14 23:22:31,747 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-8
+2025-05-14 23:22:31,876 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-7
+2025-05-14 23:22:31,876 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-7
+2025-05-14 23:22:31,924 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-10
+2025-05-14 23:22:31,924 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-10
+2025-05-14 23:22:32,120 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-9
+2025-05-14 23:22:32,120 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-9
+2025-05-14 23:22:32,121 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-05-14 23:22:32,121 INFO o.a.j.s.FileServer: Close: ./administradores.csv
+2025-05-14 23:22:32,121 INFO o.a.j.s.FileServer: Close: ./apiAlumnos.log
+2025-05-14 23:22:32,121 INFO o.a.j.s.FileServer: Close: ./alumnos.csv
+2025-05-14 23:22:32,121 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-05-14 23:25:35,936 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-05-14 23:25:35,936 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-05-14 23:25:35,937 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-05-14 23:25:35,940 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Alumnos
+2025-05-14 23:25:35,940 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Alumnos.
+2025-05-14 23:25:35,940 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:25:35,940 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=10 ramp-up=1 delayedStart=false
+2025-05-14 23:25:35,941 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-1
+2025-05-14 23:25:35,942 INFO o.a.j.s.FileServer: Stored: ./alumnos.csv
+2025-05-14 23:25:35,942 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-05-14 23:25:35,942 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Administradores
+2025-05-14 23:25:35,942 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Administradores.
+2025-05-14 23:25:35,943 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-14 23:25:35,943 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=10 ramp-up=1 delayedStart=false
+2025-05-14 23:25:35,943 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-1
+2025-05-14 23:25:35,943 INFO o.a.j.s.FileServer: Stored: ./administradores.csv
+2025-05-14 23:25:35,944 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2025-05-14 23:25:35,945 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-05-14 23:25:36,041 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-2
+2025-05-14 23:25:36,044 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-2
+2025-05-14 23:25:36,141 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-3
+2025-05-14 23:25:36,144 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-3
+2025-05-14 23:25:36,241 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-4
+2025-05-14 23:25:36,244 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-4
+2025-05-14 23:25:36,341 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-5
+2025-05-14 23:25:36,344 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-5
+2025-05-14 23:25:36,441 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-6
+2025-05-14 23:25:36,443 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-6
+2025-05-14 23:25:36,510 INFO o.a.j.s.FileServer: Stored: ./apiAlumnos.log
+2025-05-14 23:25:36,540 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-7
+2025-05-14 23:25:36,543 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-7
+2025-05-14 23:25:36,641 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-8
+2025-05-14 23:25:36,644 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-8
+2025-05-14 23:25:36,667 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-2
+2025-05-14 23:25:36,667 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-2
+2025-05-14 23:25:36,684 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-5
+2025-05-14 23:25:36,684 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-5
+2025-05-14 23:25:36,688 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-1
+2025-05-14 23:25:36,688 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-1
+2025-05-14 23:25:36,738 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-1
+2025-05-14 23:25:36,738 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-1
+2025-05-14 23:25:36,741 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-9
+2025-05-14 23:25:36,744 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-9
+2025-05-14 23:25:36,746 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-4
+2025-05-14 23:25:36,746 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-4
+2025-05-14 23:25:36,840 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-3
+2025-05-14 23:25:36,840 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-3
+2025-05-14 23:25:36,841 INFO o.a.j.t.JMeterThread: Thread started: Alumnos 1-10
+2025-05-14 23:25:36,844 INFO o.a.j.t.JMeterThread: Thread started: Administradores 2-10
+2025-05-14 23:25:36,905 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-3
+2025-05-14 23:25:36,905 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-3
+2025-05-14 23:25:37,056 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-2
+2025-05-14 23:25:37,056 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-2
+2025-05-14 23:25:37,122 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-4
+2025-05-14 23:25:37,122 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-4
+2025-05-14 23:25:37,176 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-5
+2025-05-14 23:25:37,176 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-5
+2025-05-14 23:25:37,180 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-6
+2025-05-14 23:25:37,180 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-6
+2025-05-14 23:25:37,280 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-7
+2025-05-14 23:25:37,281 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-7
+2025-05-14 23:25:37,386 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-8
+2025-05-14 23:25:37,386 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-8
+2025-05-14 23:25:37,461 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-7
+2025-05-14 23:25:37,461 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-7
+2025-05-14 23:25:37,496 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-8
+2025-05-14 23:25:37,496 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-8
+2025-05-14 23:25:37,557 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-9
+2025-05-14 23:25:37,558 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-9
+2025-05-14 23:25:37,611 INFO o.a.j.t.JMeterThread: Thread is done: Alumnos 1-10
+2025-05-14 23:25:37,611 INFO o.a.j.t.JMeterThread: Thread finished: Alumnos 1-10
+2025-05-14 23:25:37,618 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-6
+2025-05-14 23:25:37,618 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-6
+2025-05-14 23:25:37,619 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-9
+2025-05-14 23:25:37,619 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-9
+2025-05-14 23:25:37,910 INFO o.a.j.t.JMeterThread: Thread is done: Administradores 2-10
+2025-05-14 23:25:37,910 INFO o.a.j.t.JMeterThread: Thread finished: Administradores 2-10
+2025-05-14 23:25:37,910 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-05-14 23:25:37,910 INFO o.a.j.s.FileServer: Close: ./administradores.csv
+2025-05-14 23:25:37,911 INFO o.a.j.s.FileServer: Close: ./apiAlumnos.log
+2025-05-14 23:25:37,911 INFO o.a.j.s.FileServer: Close: ./alumnos.csv
+2025-05-14 23:25:37,911 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)

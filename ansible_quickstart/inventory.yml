@@ -1,0 +1,38 @@
+myhosts:
+  hosts:
+    server1:
+      ansible_host: 192.168.56.69
+      ansible_user: jcvsMV01
+      ansible_ssh_pass: carlilloslinero
+      ansible_become: true
+      ansible_password: carlilloslinero
+      ansible_become_user: root
+      ansible_become_password: carlilloslinero
+
+    server2:
+      ansible_host: 192.168.56.70
+      ansible_user: jcvsMV01
+      ansible_ssh_pass: carlilloslinero
+      ansible_become: true
+      ansible_password: carlilloslinero
+      ansible_become_user: root
+      ansible_become_password: carlilloslinero
+
+webservers:
+  hosts:
+    apache:
+      ansible_host: 192.168.56.69
+      ansible_user: jcvsMV01
+      ansible_ssh_pass: carlilloslinero
+      ansible_become: true
+      ansible_become_user: root
+      ansible_become_pass: carlilloslinero
+
+    nginx:
+      ansible_host: 192.168.56.70
+      ansible_user: jcvsMV01
+      ansible_ssh_pass: carlilloslinero
+      ansible_become: true
+      ansible_become_user: root
+      ansible_become_pass: carlilloslinero
+      

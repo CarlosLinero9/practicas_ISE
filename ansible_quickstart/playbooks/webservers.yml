@@ -1,0 +1,42 @@
+- name: Instalacion server Apache.
+  hosts: apache
+  become: true
+
+  tasks:
+
+    - name: Instalacion Apache.
+      dnf:
+        name: httpd
+        state: latest
+    
+    - name: Habilitar servicio
+      systemd:
+        name: httpd
+        state: started
+        enabled: yes
+
+    - name: Escribir index.html
+      copy:
+        src: ../index.html
+        dest: /var/www/html/index.html
+
+- name: Instalacion server Nginx.
+  hosts: nginx
+  become: true
+  tasks:
+
+      - name: Instalacion Nginx.
+        dnf:
+          name: nginx
+          state: latest
+      
+      - name: Habilitar servicio
+        systemd:
+          name: nginx
+          state: started
+          enabled: yes
+
+      - name: Escribir index.html
+        copy:
+          src: ../index.html
+          dest: /usr/share/nginx/html/index.html
